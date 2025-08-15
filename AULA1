@@ -62,3 +62,131 @@ usuário e a sociedade no centro da inovação.
 
 ---
 DIAGRAMA DE ESTADOS
+
+
+
+Qualidade em Engenharia de Software
+Refere-se ao grau em que um software atende às necessidades e expectativas dos usuários.
+Critérios comuns: confiabilidade, usabilidade, eficiência, manutenibilidade, portabilidade.
+Qualidade é garantida por boas práticas de desenvolvimento, testes rigorosos e revisão de código.
+
+Requisitos de Software
+1. Requisitos Funcionais
+Definem o que o sistema deve fazer.
+Ex: cadastro de usuários, geração de relatórios, login/logout.
+São geralmente documentados em forma de histórias de usuário ou casos de uso.
+2. Requisitos Não Funcionais
+Definem como o sistema deve se comportar.
+Ex: desempenho, segurança, escalabilidade, compatibilidade.
+Impactam diretamente na qualidade e na experiência do usuário.
+
+ Custo vs Preço
+
+Custo: Valor gasto para desenvolver o software (mão de obra, infraestrutura, licenças, testes).
+Preço: Valor cobrado do cliente pelo software (estratégia de mercado, lucro, valor percebido).
+Importante analisar o custo-benefício para garantir viabilidade econômica do projeto.
+
+Modelagem de Software
+Processo de representar o sistema com diagramas e abstrações para facilitar o entendimento e a comunicação.
+Ferramentas e linguagens comuns: UML (diagramas de classe, sequência, caso de uso), BPMN.
+Serve de base para implementação e documentação do sistema.
+
+Backlog & Scrum
+Backlog
+
+Lista priorizada de funcionalidades e requisitos do produto.
+Pode conter histórias de usuário, bugs, melhorias e tarefas técnicas.
+É dinâmico: itens são adicionados, removidos ou reordenados conforme o projeto evolui.
+
+ Scrum
+Framework ágil de gestão de projetos de software.
+Baseado em ciclos curtos (sprints) com entregas incrementais.
+Papéis principais:
+Product Owner: define e prioriza o backlog.
+Scrum Master: facilita o processo e remove impedimentos.
+Time de Desenvolvimento: constrói o produto.
+Reuniões típicas: planning, daily, review e retrospective.
+
+Sprint (Scrum)
+
+Definição: Um ciclo de trabalho com duração fixa (geralmente de 1 a 4 semanas) onde uma equipe entrega uma parte funcional e potencialmente utilizável do produto.
+Objetivo: Focar em metas claras de curto prazo, com entregas frequentes e incrementais.
+Características principais:
+Cada sprint começa com uma Sprint Planning (planejamento) e termina com uma Sprint Review (revisão) e Retrospective (retrospectiva).
+O conteúdo da sprint é definido a partir do Product Backlog.
+Durante a sprint, as metas não devem ser alteradas (respeito ao compromisso da equipe).
+Daily Scrum: reunião diária de 15 minutos para alinhar o progresso e identificar obstáculos.
+
+Stakeholder
+
+Definição: Qualquer pessoa ou entidade com interesse ou influência no projeto de software.
+Tipos de stakeholders:
+Internos: equipe de desenvolvimento, gerentes, testers.
+Externos: clientes, usuários finais, patrocinadores, órgãos reguladores.
+Importância:
+Fornecem requisitos, feedback e validação do produto.
+Podem afetar o sucesso ou fracasso do projeto.
+Uma boa comunicação com stakeholders é essencial para garantir que o software atenda às reais necessidades do negócio.
+
+
+
+
+Ótimo! Aqui vai um resumo direto e claro sobre o **Planning Poker**, ferramenta muito usada em metodologias ágeis como Scrum:
+
+---
+
+###  **Planning Poker**
+
+**Definição**:
+Planning Poker (ou *Scrum Poker*) é uma técnica de **estimativa colaborativa** usada por equipes ágeis para avaliar o esforço necessário para implementar itens do **Product Backlog** (geralmente histórias de usuário).
+
+---
+
+###  **Como funciona**
+
+1. **Reunião de planejamento**: realizada geralmente no início de cada **Sprint**.
+2. O **Product Owner** apresenta uma história do backlog.
+3. A equipe discute para entender os requisitos, critérios de aceitação e possíveis complexidades.
+4. Cada membro escolhe uma carta com um número que representa o esforço (sem mostrar aos outros).
+5. Todos revelam suas cartas **ao mesmo tempo**.
+6. Se houver **diferença significativa**, o time discute os motivos.
+7. O processo se repete até chegar a um consenso sobre o esforço estimado.
+
+---
+
+###  **Sequência de valores (exemplo comum)**
+
+* **Sequência de Fibonacci**: 0, 1, 2, 3, 5, 8, 13, 21, 34, ?
+
+  * Números maiores refletem maior incerteza e complexidade.
+* Outras cartas possíveis:
+
+  * **"?"** → dúvida ou incerteza
+  * **"Café"** ou **"Pause"** → solicitar pausa
+
+---
+
+###  **Objetivos do Planning Poker**
+
+* Promover discussões construtivas.
+* Obter estimativas mais realistas e baseadas em consenso.
+* Considerar diferentes perspectivas técnicas e de negócio.
+* Evitar a influência de hierarquias (todos revelam ao mesmo tempo).
+
+---
+
+###  **Benefícios**
+
+* Aumenta o **engajamento** da equipe.
+* Melhora a **qualidade das estimativas**.
+* Estimula o **pensamento crítico** e a **colaboração**.
+
+---
+
+POO - orientação / objetos
+passagem dependencia entre os objetos
+get set
+polimorfismo
+interfaces 
+diagrama de classes
+
