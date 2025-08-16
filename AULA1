@@ -186,7 +186,13 @@ Planning Poker (ou *Scrum Poker*) é uma técnica de **estimativa colaborativa**
 POO - orientação / objetos
 passagem dependencia entre os objetos
 get set
-polimorfismo
+polimorfismo ( POLI = MUITOS ) MUITAS FORMAS - Sobre Carga
 interfaces 
 diagrama de classes
 
+
+Crise do software 
+sistemas - Orientada a objetos ( resolução de problemas do mundo real ) 
+permitir que dev tivessem a acesso a um paradigma, transcrição attravés do mapeamento de sistemas 
+concretas e abstratas 
+extender uma estrutura ( frameworck )
