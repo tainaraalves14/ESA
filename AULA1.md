@@ -1,7 +1,6 @@
-
 ---
 
-#  Resumo Crítico: PIPE Start, Inovação em Software e Transparência
+# Resumo Crítico: PIPE Start, Inovação em Software e Transparência
 
 ## **PIPE Start (FAPESP)**
 
@@ -42,7 +41,6 @@
 
 * **Qualidade**: atender expectativas (usabilidade, confiabilidade, eficiência).
 * **Requisitos**:
-
   * Funcionais → o que o sistema faz.
   * Não funcionais → como o sistema deve se comportar (desempenho, segurança, portabilidade).
 * **Custo vs. Preço**: equilibrar investimento em desenvolvimento com valor de mercado.
@@ -54,12 +52,10 @@
 
 * **Backlog**: lista priorizada de funcionalidades.
 * **Scrum**: sprints curtos, entregas incrementais.
-
-  * Papéis: Product Owner, Scrum Master, Time de Desenvolvimento.
-  * Reuniões: Planning, Daily, Review, Retrospective.
+  * **Papéis**: Product Owner, Scrum Master, Time de Desenvolvimento.
+  * **Reuniões**: Planning, Daily, Review, Retrospective.
 * **Planning Poker**: estimativa colaborativa usando valores (Fibonacci, ?, pausa).
-
-  * Benefícios: consenso, engajamento, estimativas mais realistas.
+  * **Benefícios**: consenso, engajamento, estimativas mais realistas.
 
 ---
 
@@ -72,7 +68,6 @@
 
 ---
 
+![Diagrama de Software](softwarediagrama.png)
 
 ---
-
-![alt text](softwarediagrama.png)

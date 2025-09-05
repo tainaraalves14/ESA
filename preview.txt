@@ -1,0 +1,5 @@
+Certifique-se de que o arquivo está salvo com extensão .md.
+
+Abra a preview com Ctrl+Shift+V / Cmd+Shift+V.
+
+A extensão Markdown Preview GitHub Styling aplicará automaticamente o estilo GitHub.
