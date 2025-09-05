@@ -1,0 +1,117 @@
+
+---
+
+# **Resumo Conceitual: UML, MVC e Elementos de Software**
+
+## **1. UML – Linguagem de Modelagem Unificada**
+
+* Ferramenta para **documentação** e **modelagem de arquiteturas de sistemas**.
+* Baseada em **diagramas** para representar:
+
+  * Estrutura do sistema
+  * Comportamento dos objetos
+  * Agrupamento e organização do código
+
+**Exemplos de aplicação:**
+
+* **BPMN:** Diagrama formal para **processos de negócios**.
+* **MVP (Produto Mínimo Viável):** Permite **avaliar funcionalidades** rapidamente.
+
+---
+
+## **2. Elementos Essenciais da UML**
+
+### **a) Estruturais** → definem estruturas estáticas
+
+* **Classes**: definem atributos e métodos
+* **Interfaces**: contratos de implementação
+* **Componentes**: bibliotecas reutilizáveis (ex: Pandas no Python)
+* **Nós**: unidades de processamento
+
+### **b) Comportamentais** → definem interações e métodos
+
+* **Objetos e métodos** → descrevem **como o sistema se comporta**
+* Diagramas comuns:
+
+  * Diagrama de sequência
+  * Diagrama de atividades
+
+### **c) Agrupamento** → organização do código
+
+* **Pacotes (Package)**: agrupam classes e componentes
+
+  * Java: `package br.com.unisagrado;`
+
+### **d) Anotação**
+
+* **Notas** → comentários ou restrições nos diagramas
+
+---
+
+## **3. MVC – Model-View-Controller**
+
+Divisão do sistema em três camadas:
+
+| Camada         | Função                                          | Exemplo C#                                                     |
+| -------------- | ----------------------------------------------- | -------------------------------------------------------------- |
+| **Model**      | Dados e regras de negócio                       | `class UsuarioModel { int id; string name; string password; }` |
+| **View**       | Interface do usuário (front-end)                | Interface gráfica                                              |
+| **Controller** | Controla ações do usuário e atualiza Model/View | Lógica de negócios                                             |
+
+**Fluxo básico:**
+`Usuário → View → Controller → Model → View (atualiza)`
+
+---
+
+## **4. API e Interoperabilidade**
+
+* **API**: comunicação entre **Front-end e Back-end**
+* **Interoperabilidade**: softwares diferentes se comunicam
+
+  * Importante para **qualidade de software**
+
+---
+
+## **5. Empacotamento de Componentes**
+
+| Linguagem | Extensão | Função                                 |
+| --------- | -------- | -------------------------------------- |
+| Java      | `.jar`   | Pacote de classes e bibliotecas        |
+| Python    | `.whl`   | Pacote binário para bibliotecas Python |
+
+**Observação:** Ambos permitem **distribuir e reutilizar componentes** facilmente.
+
+---
+
+## **6. Diagrama Resumido**
+
+```
+                +-----------------+
+                |      Usuário    |
+                +--------+--------+
+                         |
+                         v
+                +--------+--------+
+                |       View      | <----- Interface gráfica
+                +--------+--------+
+                         |
+                         v
+                +--------+--------+
+                |    Controller   | <----- Regras de negócio
+                +--------+--------+
+                         |
+                         v
+                +--------+--------+
+                |       Model     | <----- Dados e lógica
+                +-----------------+
+
+UML Elements:
+-------------------------------
+| Estruturais   | Classes, Interface, Componentes, Nós |
+| Comportamentais | Sequência, Atividades, Interações |
+| Agrupamento   | Pacotes / Packages                 |
+| Anotação      | Notas, Comentários                 |
+```
+
+---
+

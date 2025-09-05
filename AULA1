@@ -1,198 +1,78 @@
-PIPE (Programa de Pesquisa Inovativa em Pequenas Empresas) da FAPESP, especificamente na chamada PIPE Start
-red hunter 
-
-eventos 
-networking 
-skiils - habilidades técnicas 
-profundidade / qualidade 
-
-solução 
-usabilidade - interface (usuário) 
-acessibilidade 
-interoperavel 
-performance comunicação
-qualidade
-seguro 
-transparência da informação 
-LGPD 
-ARTGO DE TRANSPARÊNCIA 
-OU SEJA OBRIGATÓRIO TODA ENPRESA DE SOFTWARE TEM QUE EXPLICAR SUAS DECISÕES 
-MODELOS DE APRENSIZAADO DE MAQUINA EXPLICAVEIS 
-
-
-
-### 🧩 **Resumo Crítico: Tecnologia, Habilidades e Transparência no Desenvolvimento de Soluções Digitais**
-
-#### **1. Eventos, Networking e Desenvolvimento de Habilidades**
-
-Os eventos do setor tecnológico desempenham um papel essencial no fortalecimento do **networking profissional** 
-e na disseminação de **habilidades técnicas (skills)**. Participar ativamente desses ambientes favorece o aprendizado 
-contínuo e a troca de experiências práticas, além de impulsionar o desenvolvimento de soluções com maior **profundidade
-e qualidade técnica**. Profissionais expostos a essas interações tendem a aprimorar sua visão estratégica e a adotar 
-melhores práticas no desenvolvimento de sistemas.
-
-#### **2. Soluções Digitais: Usabilidade, Acessibilidade e Interoperabilidade**
-
-A criação de soluções digitais de alto impacto exige foco na **usabilidade da interface**, garantindo que o usuário final consiga 
-navegar e utilizar o sistema de forma intuitiva. A **acessibilidade** também deve ser considerada desde o início do projeto, 
-permitindo o uso por pessoas com diferentes tipos de limitações. Além disso, a **interoperabilidade** entre sistemas e plataformas
-é vital para garantir escalabilidade e integração eficiente em ambientes corporativos diversos.
-
-#### **3. Qualidade, Performance e Comunicação**
-
-Soluções digitais devem manter padrões elevados de **qualidade**, assegurando **boa performance** e **comunicação clara** 
-entre sistemas, usuários e administradores. Isso impacta diretamente na confiabilidade da solução e na sua aceitação no mercado. 
-Uma solução tecnicamente robusta, mas mal comunicada ou mal documentada, perde valor estratégico.
-
-#### **4. Segurança, Transparência e Conformidade Legal (LGPD)**
-
-A segurança da informação é um pilar indispensável. Com a vigência da **Lei Geral de Proteção de Dados (LGPD)**, é obrigatório que 
-empresas de software adotem práticas transparentes em relação ao tratamento de dados dos usuários. Isso implica não apenas proteger, 
-mas também **explicar claramente as decisões automatizadas**, especialmente quando envolvem **modelos de aprendizado de máquina (ML)**.
-
-#### **5. Transparência Algorítmica e Modelos Explicáveis**
-
-A exigência de **transparência algorítmica** transforma-se em um imperativo ético e regulatório. Os **modelos de aprendizado de máquina 
-explicáveis (XAI – Explainable AI)** passam a ser preferidos, pois permitem que usuários e órgãos reguladores compreendam como decisões
-são tomadas por algoritmos. Isso fortalece a **confiança nas soluções digitais** e evita efeitos discriminatórios ou enviesados.
-
-A excelência no desenvolvimento de soluções digitais modernas exige uma abordagem multidimensional: técnica, humana, legal e ética. 
-O futuro do setor passa não apenas por dominar tecnologias, mas por **explicar, integrar, comunicar e proteger** — colocando o 
-usuário e a sociedade no centro da inovação.
-
----
-DIAGRAMA DE ESTADOS
-
-
-
-Qualidade em Engenharia de Software
-Refere-se ao grau em que um software atende às necessidades e expectativas dos usuários.
-Critérios comuns: confiabilidade, usabilidade, eficiência, manutenibilidade, portabilidade.
-Qualidade é garantida por boas práticas de desenvolvimento, testes rigorosos e revisão de código.
-
-Requisitos de Software
-1. Requisitos Funcionais
-Definem o que o sistema deve fazer.
-Ex: cadastro de usuários, geração de relatórios, login/logout.
-São geralmente documentados em forma de histórias de usuário ou casos de uso.
-2. Requisitos Não Funcionais
-Definem como o sistema deve se comportar.
-Ex: desempenho, segurança, escalabilidade, compatibilidade.
-Impactam diretamente na qualidade e na experiência do usuário.
-
- Custo vs Preço
-
-Custo: Valor gasto para desenvolver o software (mão de obra, infraestrutura, licenças, testes).
-Preço: Valor cobrado do cliente pelo software (estratégia de mercado, lucro, valor percebido).
-Importante analisar o custo-benefício para garantir viabilidade econômica do projeto.
-
-Modelagem de Software
-Processo de representar o sistema com diagramas e abstrações para facilitar o entendimento e a comunicação.
-Ferramentas e linguagens comuns: UML (diagramas de classe, sequência, caso de uso), BPMN.
-Serve de base para implementação e documentação do sistema.
-
-Backlog & Scrum
-Backlog
-
-Lista priorizada de funcionalidades e requisitos do produto.
-Pode conter histórias de usuário, bugs, melhorias e tarefas técnicas.
-É dinâmico: itens são adicionados, removidos ou reordenados conforme o projeto evolui.
-
- Scrum
-Framework ágil de gestão de projetos de software.
-Baseado em ciclos curtos (sprints) com entregas incrementais.
-Papéis principais:
-Product Owner: define e prioriza o backlog.
-Scrum Master: facilita o processo e remove impedimentos.
-Time de Desenvolvimento: constrói o produto.
-Reuniões típicas: planning, daily, review e retrospective.
-
-Sprint (Scrum)
-
-Definição: Um ciclo de trabalho com duração fixa (geralmente de 1 a 4 semanas) onde uma equipe entrega uma parte funcional e potencialmente utilizável do produto.
-Objetivo: Focar em metas claras de curto prazo, com entregas frequentes e incrementais.
-Características principais:
-Cada sprint começa com uma Sprint Planning (planejamento) e termina com uma Sprint Review (revisão) e Retrospective (retrospectiva).
-O conteúdo da sprint é definido a partir do Product Backlog.
-Durante a sprint, as metas não devem ser alteradas (respeito ao compromisso da equipe).
-Daily Scrum: reunião diária de 15 minutos para alinhar o progresso e identificar obstáculos.
-
-Stakeholder
-
-Definição: Qualquer pessoa ou entidade com interesse ou influência no projeto de software.
-Tipos de stakeholders:
-Internos: equipe de desenvolvimento, gerentes, testers.
-Externos: clientes, usuários finais, patrocinadores, órgãos reguladores.
-Importância:
-Fornecem requisitos, feedback e validação do produto.
-Podem afetar o sucesso ou fracasso do projeto.
-Uma boa comunicação com stakeholders é essencial para garantir que o software atenda às reais necessidades do negócio.
-
-
-
-
-Ótimo! Aqui vai um resumo direto e claro sobre o **Planning Poker**, ferramenta muito usada em metodologias ágeis como Scrum:
 
 ---
 
-###  **Planning Poker**
+#  Resumo Crítico: PIPE Start, Inovação em Software e Transparência
 
-**Definição**:
-Planning Poker (ou *Scrum Poker*) é uma técnica de **estimativa colaborativa** usada por equipes ágeis para avaliar o esforço necessário para implementar itens do **Product Backlog** (geralmente histórias de usuário).
+## **PIPE Start (FAPESP)**
 
----
-
-###  **Como funciona**
-
-1. **Reunião de planejamento**: realizada geralmente no início de cada **Sprint**.
-2. O **Product Owner** apresenta uma história do backlog.
-3. A equipe discute para entender os requisitos, critérios de aceitação e possíveis complexidades.
-4. Cada membro escolhe uma carta com um número que representa o esforço (sem mostrar aos outros).
-5. Todos revelam suas cartas **ao mesmo tempo**.
-6. Se houver **diferença significativa**, o time discute os motivos.
-7. O processo se repete até chegar a um consenso sobre o esforço estimado.
+* Incentiva pequenas empresas a desenvolverem **pesquisa inovadora**.
+* Foco em **inovação tecnológica**, aplicabilidade de mercado e **formação de competências**.
+* Estimula **networking** entre pesquisadores, empreendedores e investidores.
 
 ---
 
-###  **Sequência de valores (exemplo comum)**
+## **Eventos e Networking**
 
-* **Sequência de Fibonacci**: 0, 1, 2, 3, 5, 8, 13, 21, 34, ?
-
-  * Números maiores refletem maior incerteza e complexidade.
-* Outras cartas possíveis:
-
-  * **"?"** → dúvida ou incerteza
-  * **"Café"** ou **"Pause"** → solicitar pausa
+* Eventos fortalecem conexões profissionais.
+* Criam oportunidades de aprendizado contínuo e troca de experiências.
+* Impacto direto na **profundidade técnica** e na **qualidade das soluções** desenvolvidas.
 
 ---
 
-###  **Objetivos do Planning Poker**
+## **Soluções Digitais: Requisitos-Chave**
 
-* Promover discussões construtivas.
-* Obter estimativas mais realistas e baseadas em consenso.
-* Considerar diferentes perspectivas técnicas e de negócio.
-* Evitar a influência de hierarquias (todos revelam ao mesmo tempo).
-
----
-
-###  **Benefícios**
-
-* Aumenta o **engajamento** da equipe.
-* Melhora a **qualidade das estimativas**.
-* Estimula o **pensamento crítico** e a **colaboração**.
+* **Usabilidade**: interface simples e intuitiva.
+* **Acessibilidade**: inclusão de usuários com diferentes necessidades.
+* **Interoperabilidade**: integração entre sistemas.
+* **Performance & Comunicação**: eficiência técnica e clareza na troca de informações.
+* **Qualidade**: confiabilidade, manutenibilidade e escalabilidade.
 
 ---
 
-POO - orientação / objetos
-passagem dependencia entre os objetos
-get set
-polimorfismo ( POLI = MUITOS ) MUITAS FORMAS - Sobre Carga
-interfaces 
-diagrama de classes
+## **Segurança, LGPD e Transparência**
+
+* **Proteção de dados pessoais** é requisito obrigatório (LGPD).
+* Empresas devem ser **transparentes nas decisões automatizadas**.
+* Exigência de **modelos explicáveis de aprendizado de máquina (XAI)**.
+* Transparência aumenta a confiança e reduz riscos de vieses.
+
+---
+
+## **Engenharia de Software**
+
+* **Qualidade**: atender expectativas (usabilidade, confiabilidade, eficiência).
+* **Requisitos**:
+
+  * Funcionais → o que o sistema faz.
+  * Não funcionais → como o sistema deve se comportar (desempenho, segurança, portabilidade).
+* **Custo vs. Preço**: equilibrar investimento em desenvolvimento com valor de mercado.
+* **Modelagem**: uso de UML, BPMN para comunicação e documentação.
+
+---
+
+## **Metodologias Ágeis**
+
+* **Backlog**: lista priorizada de funcionalidades.
+* **Scrum**: sprints curtos, entregas incrementais.
+
+  * Papéis: Product Owner, Scrum Master, Time de Desenvolvimento.
+  * Reuniões: Planning, Daily, Review, Retrospective.
+* **Planning Poker**: estimativa colaborativa usando valores (Fibonacci, ?, pausa).
+
+  * Benefícios: consenso, engajamento, estimativas mais realistas.
+
+---
+
+## **Paradigmas de Programação e OOP**
+
+* **Orientação a Objetos (POO)**: encapsulamento, polimorfismo, herança.
+* **Interfaces e diagramas de classes**: facilitam organização e extensibilidade.
+* **Frameworks**: permitem reutilização e evolução de sistemas.
+* Resposta à **“crise do software”** → sistemas mais organizados, adaptáveis e alinhados ao mundo real.
+
+---
 
 
-Crise do software 
-sistemas - Orientada a objetos ( resolução de problemas do mundo real ) 
-permitir que dev tivessem a acesso a um paradigma, transcrição attravés do mapeamento de sistemas 
-concretas e abstratas 
-extender uma estrutura ( frameworck )
+---
+
+![alt text](softwarediagrama.png)
